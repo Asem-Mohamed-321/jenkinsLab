@@ -15,6 +15,6 @@ spec:
     spec:
       containers:
       - name: lab
-        image: asemmohamed321/newlab
+        image: asemmohamed321/newlab:4
         ports:
         - containerPort: 5000
